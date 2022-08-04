@@ -1,3 +1,3 @@
 <?php
-echo "\n\nInicio\n\n";
+echo "\nInicio\n\n";
 ?>
